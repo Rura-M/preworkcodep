@@ -4,12 +4,10 @@ CODEPATH PREWORK
 `TODO://` This app changes text color when a button is pressed
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+##TODO:
 APP GIF
-<img src="![](https://i.imgur.com/EYYfgIL.gif)
- width=200><br>
-<img src="![](https://i.imgur.com/1xPVJ6v.gif)
-width=200><br>
+<img src="![](https://i.imgur.com/EYYfgIL.gif)" width=200><br>
+<img src="![](https://i.imgur.com/1xPVJ6v.gif"width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
