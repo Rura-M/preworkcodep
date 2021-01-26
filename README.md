@@ -5,7 +5,7 @@ CODEPATH PREWORK
 
 ### App Walk-though
 
-![](https://i.imgur.com/cd5q5Hc.gif)
+![](https://i.imgur.com/Wdt34Ek.gif)
 
 PROJECT GIF
 ![](https://i.imgur.com/vcnkRvL.gif)
