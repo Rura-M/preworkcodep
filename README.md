@@ -3,12 +3,12 @@ CODEPATH PREWORK
 ### App Description
 `TODO://` This app changes text color when a button is pressed
 
-### App Walk-though
+### App Walk-through
 
-![](https://i.imgur.com/Wdt34Ek.gif)
+<img src="https://i.imgur.com/Wdt34Ek.gif" width=200><br>
 
-PROJECT GIF
-![](https://i.imgur.com/vcnkRvL.gif)
+<img src="https://i.imgur.com/vcnkRvL.gif" width=200><br>
+
 
 
 ### Required User Stories
